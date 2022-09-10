@@ -1,0 +1,58 @@
+body{
+    
+    margin: auto;
+    background-color: rgb(10, 43, 43);
+}
+
+.warper{
+
+    width: 70%;
+    margin: auto;
+    text-align: center;
+}
+
+h1{
+    margin: 20px;
+    font-size: 35px;
+    text-align:center;
+    color: aliceblue;
+    font-family: cursive;
+}
+
+.dice_area {
+    margin: 0px 60px;
+   
+    display: inline-block;
+}
+
+p {
+    font-size: 35px;
+    color: aliceblue;
+    font-family: cursive;
+    position: absolute;
+    top: 65%;
+    left: 35%;
+}
+
+.user2 {
+    font-size: 35px;
+    color: aliceblue;
+    font-family: cursive;
+    position: absolute;
+    top: 65%;
+    left: 60%;
+}
+
+img {
+    padding-top: 60%;
+    width: 250px;
+
+}
+
+
+.footer {
+    color: aqua;
+    text-align: center;
+    margin-top: 10%;
+    font-family: monospace;
+}
